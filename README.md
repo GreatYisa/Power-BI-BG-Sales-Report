@@ -6,6 +6,8 @@
   2. PBI Dashboard
   3. Impact of the data on Annual sales by selling area, average sales by selling area etc.
 
-  ### Technology used
+### Technology used
   - Power BI
   
+### Dashboard Summary
+![Dashboard image](https://github.com/GreatYisa/Power-BI-BG-Sales-Report/blob/main/Screenshot%202024-06-10%20210238.png)
